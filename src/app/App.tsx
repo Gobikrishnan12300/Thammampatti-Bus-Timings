@@ -71,7 +71,7 @@ const App: React.FC = () => {
         <div>
           <h1 className="app-title">
             <span className="app-title-name">{APP_NAME}</span>
-            <span className="app-title-credit">(Created by Gobikrishnan)</span>
+            <span className="app-title-credit">(Created by Gobikrishnan Pachamuthu)</span>
           </h1>
           <p className="app-subtitle">{APP_TAGLINE}</p>
         </div>
