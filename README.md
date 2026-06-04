@@ -1,4 +1,4 @@
-# Namma Bus Timing
+# Thammampatti Bus Timing
 
 A simple **bus timing web app** for **Thammampatti bus stand** (Thammampatti → other cities).
 
@@ -27,7 +27,7 @@ Example:
 
 ```json
 {
-  "appName": "Namma Bus Timing",
+  "appName": "Thammampatti Bus Timing",
   "appShortName": "Namma Bus",
   "appTagline": "Your tagline here",
   "appDescription": "Short description for Google / browser",
